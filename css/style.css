@@ -1,0 +1,14 @@
+/* elemen selector */
+/* referensi web coorhunt.co */
+body{
+    background-color: rgb(76, 76, 169) ;
+    color: white;
+    font-family: verdana;
+
+}
+.txt-center {text-align: center;}
+.bg-warning {background-color: yellow; border-radius: 20px;}
+.txt-black{ color: black}
+.p-1{ padding: 20px;}  /* memberi jarak sisi dalam border */
+.m-1{ margin: 20px;} /* memberi jarak sisi luar border */
+       
